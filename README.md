@@ -10,7 +10,7 @@ At the moment, I am using gensim's [doc2vec](https://rare-technologies.com/doc2v
 - Download nltk data - `nltk.download('punkt')` and `nltk.download('stopwords')`
 - Train the model - `python train.py`
 - Insert your favorite text into `infer.txt`- Yelp reviews give fairly accurate results
-- Predict - `python sentiment.py`
+- Predict - `python sentiment.py` And have fun!
 
 ---
 ```
